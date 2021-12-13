@@ -3,6 +3,15 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$PROJECT_DIR$/editor/cn/[1381]Design a Stack With Increment Operation.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[1381]Design a Stack With Increment Operation.md" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[1381]Design a Stack With Increment Operation.java" />
+              <option name="questionId" value="1497" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[165]Compare Version Numbers.java">
           <value>
             <LeetcodeEditor>
@@ -18,6 +27,42 @@
               <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[2]Add Two Numbers.md" />
               <option name="path" value="$PROJECT_DIR$/editor/cn/[2]Add Two Numbers.java" />
               <option name="questionId" value="2" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[415]Add Strings.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[415]Add Strings.md" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[415]Add Strings.java" />
+              <option name="questionId" value="415" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[66]Plus One.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[66]Plus One.md" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[66]Plus One.java" />
+              <option name="questionId" value="66" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[67]Add Binary.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[67]Add Binary.md" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[67]Add Binary.java" />
+              <option name="questionId" value="67" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[809]Expressive Words.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[809]Expressive Words.md" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[809]Expressive Words.java" />
+              <option name="questionId" value="827" />
             </LeetcodeEditor>
           </value>
         </entry>
