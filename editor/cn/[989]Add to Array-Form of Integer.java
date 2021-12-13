@@ -66,7 +66,7 @@ class Solution {
         int sum = 0;
         int carry = 0;
 
-        while(i>=0 || k!=0){
+        while(i>=0 || k!=0 || carry>0){
             // 当前位
             int x = i >= 0 ? num[i] : 0;
             int y = k != 0 ? k%10 : 0;
@@ -80,10 +80,6 @@ class Solution {
             res.add(sum%10);
         }
 
-        // 判断最后一次是否进位
-        if (carry!=0){
-            res.add(carry);
-        }
         // 翻转
         Collections.reverse(res);
         return res;
