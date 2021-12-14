@@ -21,6 +21,24 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[26]Remove Duplicates from Sorted Array.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[26]Remove Duplicates from Sorted Array.md" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[26]Remove Duplicates from Sorted Array.java" />
+              <option name="questionId" value="26" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[27]Remove Element.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[27]Remove Element.md" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[27]Remove Element.java" />
+              <option name="questionId" value="27" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[2]Add Two Numbers.java">
           <value>
             <LeetcodeEditor>
@@ -63,6 +81,15 @@
               <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[809]Expressive Words.md" />
               <option name="path" value="$PROJECT_DIR$/editor/cn/[809]Expressive Words.java" />
               <option name="questionId" value="827" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[80]Remove Duplicates from Sorted Array II.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[80]Remove Duplicates from Sorted Array II.md" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[80]Remove Duplicates from Sorted Array II.java" />
+              <option name="questionId" value="80" />
             </LeetcodeEditor>
           </value>
         </entry>
