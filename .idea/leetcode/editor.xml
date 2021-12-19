@@ -21,6 +21,33 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[18]4Sum.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[18]4Sum.md" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[18]4Sum.java" />
+              <option name="questionId" value="18" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[19]Remove Nth Node From End of List.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[19]Remove Nth Node From End of List.md" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[19]Remove Nth Node From End of List.java" />
+              <option name="questionId" value="19" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[202]Happy Number.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[202]Happy Number.md" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[202]Happy Number.java" />
+              <option name="questionId" value="202" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[203]Remove Linked List Elements.java">
           <value>
             <LeetcodeEditor>
@@ -81,6 +108,15 @@
               <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[2]Add Two Numbers.md" />
               <option name="path" value="$PROJECT_DIR$/editor/cn/[2]Add Two Numbers.java" />
               <option name="questionId" value="2" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[383]Ransom Note.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[383]Ransom Note.md" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[383]Ransom Note.java" />
+              <option name="questionId" value="383" />
             </LeetcodeEditor>
           </value>
         </entry>
