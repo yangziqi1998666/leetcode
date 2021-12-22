@@ -120,6 +120,24 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[39]Combination Sum.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[39]Combination Sum.md" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[39]Combination Sum.java" />
+              <option name="questionId" value="39" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[40]Combination Sum II.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[40]Combination Sum II.md" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[40]Combination Sum II.java" />
+              <option name="questionId" value="40" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[415]Add Strings.java">
           <value>
             <LeetcodeEditor>
