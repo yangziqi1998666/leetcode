@@ -156,6 +156,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[47]Permutations II.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[47]Permutations II.md" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[47]Permutations II.java" />
+              <option name="questionId" value="47" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[54]Spiral Matrix.java">
           <value>
             <LeetcodeEditor>
@@ -201,6 +210,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[78]Subsets.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[78]Subsets.md" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[78]Subsets.java" />
+              <option name="questionId" value="78" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/cn/[809]Expressive Words.java">
           <value>
             <LeetcodeEditor>
@@ -216,6 +234,15 @@
               <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[80]Remove Duplicates from Sorted Array II.md" />
               <option name="path" value="$PROJECT_DIR$/editor/cn/[80]Remove Duplicates from Sorted Array II.java" />
               <option name="questionId" value="80" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/cn/[90]Subsets II.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/editor/cn/doc/content/[90]Subsets II.md" />
+              <option name="path" value="$PROJECT_DIR$/editor/cn/[90]Subsets II.java" />
+              <option name="questionId" value="90" />
             </LeetcodeEditor>
           </value>
         </entry>
